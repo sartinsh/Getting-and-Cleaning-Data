@@ -136,7 +136,8 @@ The script run_analysis.R performs flowing data manipulations:
    4. Appropriately labels the data set with descriptive variable names. 
    5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-Every action performed by the code is accompanied with a comment to help understand exactly what happens. 
+No other means of data manipulation was used besides the run_analysis.R script.
+Every action performed by the code is accompanied with a comment to help understand exactly what happens.
 
 Libraries reshap2 and plyr must be installed to run the code!
 
